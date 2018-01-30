@@ -1,0 +1,25 @@
+{
+  "name": "modalwindow",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "meteor-node-stubs": "^0.3.2"
+  },
+  "version": "1.0.0",
+  "description": "simple modal window and some vehicle",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/den2308/modalWindow.git"
+  },
+  "author": "DanKarity",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/den2308/modalWindow/issues"
+  },
+  "homepage": "https://github.com/den2308/modalWindow#readme"
+}
