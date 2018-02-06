@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "active": true,
+        "name": "Трактор",
+        "width": false,
+        "carryingCapacity": false,
+        "vehicleKind": {
+            "id": 1,
+            "active": true,
+            "name": "Самохідна техніка"
+        }
+    },
+    {
+        "id": 2,
+        "active": true,
+        "name": "Комбайн",
+        "width": false,
+        "carryingCapacity": false,
+        "vehicleKind": {
+            "id": 1,
+            "active": true,
+            "name": "Самохідна техніка"
+        }
+    },
+    {
+        "id": 3,
+        "active": true,
+        "name": "Сівалка",
+        "width": true,
+        "carryingCapacity": false,
+        "vehicleKind": {
+            "id": 2,
+            "active": true,
+            "name": "Агрегати"
+        }
+    },
+    {
+        "id": 4,
+        "active": true,
+        "name": "Косарка",
+        "width": true,
+        "carryingCapacity": false,
+        "vehicleKind": {
+            "id": 2,
+            "active": true,
+            "name": "Агрегати"
+        }
+    },
+    {
+        "id": 5,
+        "active": true,
+        "name": "Прицеп",
+        "width": false,
+        "carryingCapacity": true,
+        "vehicleKind": {
+            "id": 2,
+            "active": true,
+            "name": "Агрегати"
+        }
+    },
+    {
+        "id": 6,
+        "active": true,
+        "name": "Культиватор",
+        "width": true,
+        "carryingCapacity": false,
+        "vehicleKind": {
+            "id": 2,
+            "active": true,
+            "name": "Агрегати"
+        }
+    },
+    {
+        "id": 7,
+        "active": true,
+        "name": "Вантажний автомобіль",
+        "width": false,
+        "carryingCapacity": true,
+        "vehicleKind": {
+            "id": 1,
+            "active": true,
+            "name": "Самохідна техніка"
+        }
+    }
+]

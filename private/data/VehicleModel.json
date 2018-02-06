@@ -1,0 +1,444 @@
+[
+    {
+        "id": 1,
+        "active": true,
+        "name": "JOHN DEERE 8400",
+        "width": 0,
+        "carryingCapacity": 0,
+        "vehicleType": {
+            "id": 1,
+            "active": true,
+            "name": "Трактор",
+            "width": false,
+            "carryingCapacity": false,
+            "vehicleKind": {
+                "id": 1,
+                "active": true,
+                "name": "Самохідна техніка"
+            }
+        },
+        "vehicles": [
+            {
+                "name": "JOHN DEERE 8400 25444 ВХ",
+                "numberPlate": "95786",
+                "inventoryNumber": "45896",
+                "idTracker": "12458",
+                "width": 0,
+                "carryingCapacity": 0,
+                "vehicleOwnershipType": {
+                    "name": "Власна",
+                    "id": 3,
+                    "active": true
+                },
+                "counterparty": {
+                    "name": "Оптима",
+                    "edrpouCode": "15689647",
+                    "isExternal": false,
+                    "id": 1,
+                    "active": true
+                },
+                "vehicleStatus": {
+                    "name": "В ремонті",
+                    "id": 2,
+                    "active": true
+                },
+                "vehicleModel": {
+                    "name": "JOHN DEERE 8400",
+                    "width": 0,
+                    "carryingCapacity": 0,
+                    "vehicleType": {
+                        "name": "Трактор",
+                        "width": false,
+                        "carryingCapacity": false,
+                        "vehicleKind": {
+                            "name": "Самохідна техніка",
+                            "id": 1,
+                            "active": true
+                        },
+                        "id": 1,
+                        "active": true
+                    },
+                    "id": 1,
+                    "active": true
+                },
+                "id": 1,
+                "active": true
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "active": true,
+        "name": "CASE 8010",
+        "width": 0,
+        "carryingCapacity": 0,
+        "vehicleType": {
+            "id": 2,
+            "active": true,
+            "name": "Комбайн",
+            "width": false,
+            "carryingCapacity": false,
+            "vehicleKind": {
+                "id": 1,
+                "active": true,
+                "name": "Самохідна техніка"
+            }
+        },
+        "vehicles": [
+            {
+                "name": "CASE 8010 29101 ВХ",
+                "numberPlate": "74895",
+                "inventoryNumber": "15986",
+                "idTracker": "12596",
+                "width": 0,
+                "carryingCapacity": 0,
+                "vehicleOwnershipType": {
+                    "name": "Наймана",
+                    "id": 2,
+                    "active": true
+                },
+                "counterparty": {
+                    "name": "Нива",
+                    "edrpouCode": "25963568",
+                    "isExternal": true,
+                    "id": 2,
+                    "active": true
+                },
+                "vehicleStatus": {
+                    "name": "Активна",
+                    "id": 1,
+                    "active": true
+                },
+                "vehicleModel": {
+                    "name": "CASE 8010",
+                    "width": 0,
+                    "carryingCapacity": 0,
+                    "vehicleType": {
+                        "name": "Комбайн",
+                        "width": false,
+                        "carryingCapacity": false,
+                        "vehicleKind": {
+                            "name": "Самохідна техніка",
+                            "id": 1,
+                            "active": true
+                        },
+                        "id": 2,
+                        "active": true
+                    },
+                    "id": 2,
+                    "active": true
+                },
+                "id": 2,
+                "active": true
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "active": true,
+        "name": "2ПТС-4",
+        "width": 0,
+        "carryingCapacity": 3,
+        "vehicleType": {
+            "id": 5,
+            "active": true,
+            "name": "Прицеп",
+            "width": false,
+            "carryingCapacity": true,
+            "vehicleKind": {
+                "id": 2,
+                "active": true,
+                "name": "Агрегати"
+            }
+        },
+        "vehicles": [
+            {
+                "name": "Прицеп тракторний 2ПТС-4",
+                "numberPlate": "45896",
+                "inventoryNumber": "95786",
+                "idTracker": "36597",
+                "width": 0,
+                "carryingCapacity": 0,
+                "vehicleOwnershipType": {
+                    "name": "Орендована",
+                    "id": 1,
+                    "active": true
+                },
+                "counterparty": {
+                    "name": "Апельсин",
+                    "edrpouCode": "45689238",
+                    "isExternal": false,
+                    "id": 3,
+                    "active": true
+                },
+                "vehicleStatus": {
+                    "name": "Активна",
+                    "id": 1,
+                    "active": true
+                },
+                "vehicleModel": {
+                    "name": "2ПТС-4",
+                    "width": 0,
+                    "carryingCapacity": 3,
+                    "vehicleType": {
+                        "name": "Прицеп",
+                        "width": false,
+                        "carryingCapacity": true,
+                        "vehicleKind": {
+                            "name": "Агрегати",
+                            "id": 2,
+                            "active": true
+                        },
+                        "id": 5,
+                        "active": true
+                    },
+                    "id": 3,
+                    "active": true
+                },
+                "id": 3,
+                "active": true
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "active": true,
+        "name": "Agrotron-155",
+        "width": 0,
+        "carryingCapacity": 0,
+        "vehicleType": {
+            "id": 1,
+            "active": true,
+            "name": "Трактор",
+            "width": false,
+            "carryingCapacity": false,
+            "vehicleKind": {
+                "id": 1,
+                "active": true,
+                "name": "Самохідна техніка"
+            }
+        },
+        "vehicles": []
+    },
+    {
+        "id": 5,
+        "active": true,
+        "name": "МТЗ-80",
+        "width": 0,
+        "carryingCapacity": 0,
+        "vehicleType": {
+            "id": 1,
+            "active": true,
+            "name": "Трактор",
+            "width": false,
+            "carryingCapacity": false,
+            "vehicleKind": {
+                "id": 1,
+                "active": true,
+                "name": "Самохідна техніка"
+            }
+        },
+        "vehicles": []
+    },
+    {
+        "id": 6,
+        "active": true,
+        "name": "GREAT PLAINS 3 S",
+        "width": 7.6,
+        "carryingCapacity": 0,
+        "vehicleType": {
+            "id": 3,
+            "active": true,
+            "name": "Сівалка",
+            "width": true,
+            "carryingCapacity": false,
+            "vehicleKind": {
+                "id": 2,
+                "active": true,
+                "name": "Агрегати"
+            }
+        },
+        "vehicles": [
+            {
+                "name": "GREAT PLAINS 3 S 4010",
+                "numberPlate": "36597",
+                "inventoryNumber": "74895",
+                "idTracker": "45896",
+                "width": 0,
+                "carryingCapacity": 0,
+                "vehicleOwnershipType": {
+                    "name": "Власна",
+                    "id": 3,
+                    "active": true
+                },
+                "counterparty": {
+                    "name": "Зоряний шлях",
+                    "edrpouCode": "45897589",
+                    "isExternal": false,
+                    "id": 4,
+                    "active": true
+                },
+                "vehicleStatus": {
+                    "name": "Активна",
+                    "id": 1,
+                    "active": true
+                },
+                "vehicleModel": {
+                    "name": "GREAT PLAINS 3 S",
+                    "width": 7.6,
+                    "carryingCapacity": 0,
+                    "vehicleType": {
+                        "name": "Сівалка",
+                        "width": true,
+                        "carryingCapacity": false,
+                        "vehicleKind": {
+                            "name": "Агрегати",
+                            "id": 2,
+                            "active": true
+                        },
+                        "id": 3,
+                        "active": true
+                    },
+                    "id": 6,
+                    "active": true
+                },
+                "id": 4,
+                "active": true
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "active": true,
+        "name": "Gigant 10м/1000",
+        "width": 9,
+        "carryingCapacity": 0,
+        "vehicleType": {
+            "id": 6,
+            "active": true,
+            "name": "Культиватор",
+            "width": true,
+            "carryingCapacity": false,
+            "vehicleKind": {
+                "id": 2,
+                "active": true,
+                "name": "Агрегати"
+            }
+        },
+        "vehicles": [
+            {
+                "name": "Gigant 10м/1000 ПРГ125",
+                "numberPlate": "15986",
+                "inventoryNumber": "12458",
+                "idTracker": "15986",
+                "width": 0,
+                "carryingCapacity": 0,
+                "vehicleOwnershipType": {
+                    "name": "Наймана",
+                    "id": 2,
+                    "active": true
+                },
+                "counterparty": {
+                    "name": "Місяць",
+                    "edrpouCode": "25689651",
+                    "isExternal": false,
+                    "id": 5,
+                    "active": true
+                },
+                "vehicleStatus": {
+                    "name": "Активна",
+                    "id": 1,
+                    "active": true
+                },
+                "vehicleModel": {
+                    "name": "Gigant 10м/1000",
+                    "width": 9,
+                    "carryingCapacity": 0,
+                    "vehicleType": {
+                        "name": "Культиватор",
+                        "width": true,
+                        "carryingCapacity": false,
+                        "vehicleKind": {
+                            "name": "Агрегати",
+                            "id": 2,
+                            "active": true
+                        },
+                        "id": 6,
+                        "active": true
+                    },
+                    "id": 7,
+                    "active": true
+                },
+                "id": 5,
+                "active": true
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "active": true,
+        "name": "Z-069-1.65",
+        "width": 2,
+        "carryingCapacity": 0,
+        "vehicleType": {
+            "id": 4,
+            "active": true,
+            "name": "Косарка",
+            "width": true,
+            "carryingCapacity": false,
+            "vehicleKind": {
+                "id": 2,
+                "active": true,
+                "name": "Агрегати"
+            }
+        },
+        "vehicles": [
+            {
+                "name": "Косарка роторна Z-069-1.65 з карданом та захистом",
+                "numberPlate": "12596",
+                "inventoryNumber": "12596",
+                "idTracker": "95786",
+                "width": 0,
+                "carryingCapacity": 0,
+                "vehicleOwnershipType": {
+                    "name": "Орендована",
+                    "id": 1,
+                    "active": true
+                },
+                "counterparty": {
+                    "name": "Оптима",
+                    "edrpouCode": "15689647",
+                    "isExternal": false,
+                    "id": 1,
+                    "active": true
+                },
+                "vehicleStatus": {
+                    "name": "Активна",
+                    "id": 1,
+                    "active": true
+                },
+                "vehicleModel": {
+                    "name": "Z-069-1.65",
+                    "width": 2,
+                    "carryingCapacity": 0,
+                    "vehicleType": {
+                        "name": "Косарка",
+                        "width": true,
+                        "carryingCapacity": false,
+                        "vehicleKind": {
+                            "name": "Агрегати",
+                            "id": 2,
+                            "active": true
+                        },
+                        "id": 4,
+                        "active": true
+                    },
+                    "id": 8,
+                    "active": true
+                },
+                "id": 6,
+                "active": true
+            }
+        ]
+    }
+]
